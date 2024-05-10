@@ -1,0 +1,3 @@
+interface IChip{
+    title:string
+}

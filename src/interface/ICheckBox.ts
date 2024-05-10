@@ -1,0 +1,3 @@
+interface ICheckbox{
+    label?:string;
+}
